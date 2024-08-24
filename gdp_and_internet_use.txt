@@ -1,0 +1,20 @@
+
+UN Data Analysis: GDP Per Capita & Internet Usage:
+
+This repository contains a guided exploration of two datasets from the United Nations:
+
+Gross Domestic Product (GDP) per capita: Represents the economic output per person, adjusted for purchasing power parity.
+Percentage of Individuals Using the Internet: Represents the percentage of a country’s population that uses the internet.
+The analysis aims to uncover relationships between economic development (as measured by GDP per capita) and internet usage across different countries over the years 2004, 2009, and 2014.
+
+Analysis:
+
+Identify the countries with the highest and lowest internet usage and GDP per capita for each of the selected years.
+Create scatterplots to visualize the relationship between GDP per capita and internet usage for 2004, 2009, and 2014.
+
+Conclusion:
+
+The analysis should help understand how internet usage correlates with economic development across different countries and over time.
+
+Results:
+The findings from this analysis reveal interesting patterns between economic wealth and internet adoption. For instance, countries with higher GDP per capita generally have higher internet usage, but there are outliers that challenge this trend. The detailed analysis is captured in the Jupyter Notebook.
